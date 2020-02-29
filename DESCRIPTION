@@ -1,0 +1,30 @@
+Package: nba
+Title: Analyzes Various NBA Statistics By Year
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kristen",
+           family = "Akey",
+           role = c("aut", "cre"),
+           email = "kka2120@barnard.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package allows you to input a year and see which NBA player scored the most points and was oldest in age for that year. Additionally, you can see the correlation between various NBA stats for a given year.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+  data.table (>= 1.9.4),
+  utils,
+  stats,
+  tidyr,
+  dplyr,
+  purrr,
+  corrplot
+Depends:
+  data.table (>= 1.9.4),
+  utils,
+  stats,
+  tidyr,
+  dplyr,
+  purrr,
+  corrplot
+RoxygenNote: 6.1.1
