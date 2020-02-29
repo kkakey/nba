@@ -11,14 +11,6 @@ Description: This package allows you to input a year and see which NBA player sc
 License: MIT
 Encoding: UTF-8
 LazyData: true
-Imports:
-  data.table (>= 1.9.4),
-  utils,
-  stats,
-  tidyr,
-  dplyr,
-  purrr,
-  corrplot
 Depends:
   data.table (>= 1.9.4),
   utils,
@@ -27,4 +19,6 @@ Depends:
   dplyr,
   purrr,
   corrplot
+Imports:
+  data.table (>= 1.9.4)
 RoxygenNote: 6.1.1
