@@ -6,6 +6,7 @@
 #' @keywords nba
 #' @export
 #' @import(dplyr)
+#' @import(magrittr)
 #' @examples
 #' year_player()
 

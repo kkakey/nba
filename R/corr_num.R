@@ -8,6 +8,7 @@
 #' @import(dplyr)
 #' @import(purrr)
 #' @import(corrplot)
+#' @import(magrittr)
 #' @examples
 #' corr_num()
 
