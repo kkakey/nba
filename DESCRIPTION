@@ -12,13 +12,13 @@ License: MIT
 Encoding: UTF-8
 LazyData: true
 Depends:
+  R (>= 2.10)
+Imports:
   data.table (>= 1.9.4),
   utils,
-  stats,
-  tidyr,
-  dplyr,
+  stats, 
+  corrplot,
+  dplyr, 
   purrr,
-  corrplot
-Imports:
-  data.table (>= 1.9.4)
+  tidyr
 RoxygenNote: 6.1.1

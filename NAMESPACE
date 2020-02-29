@@ -3,3 +3,7 @@
 export(corr_num)
 export(year_oldestplayer)
 export(year_player)
+import("(corrplot)")
+import("(dplyr)")
+import("(purrr)")
+import("(tidyr)")

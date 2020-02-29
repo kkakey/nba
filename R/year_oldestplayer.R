@@ -5,6 +5,8 @@
 #' @param year Input year of interest
 #' @keywords nba
 #' @export
+#' @import(dplyr)
+#' @import(tidyr)
 #' @examples
 #' year_oldestplayer()
 

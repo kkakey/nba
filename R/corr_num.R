@@ -5,6 +5,9 @@
 #' @param year Input year of interest
 #' @keywords nba
 #' @export
+#' @import(dplyr)
+#' @import(purrr)
+#' @import(corrplot)
 #' @examples
 #' corr_num()
 
