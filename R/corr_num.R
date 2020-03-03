@@ -5,10 +5,10 @@
 #' @param year Input year of interest
 #' @keywords nba
 #' @export
-#' @import(dplyr)
-#' @import(purrr)
-#' @import(corrplot)
-#' @import(magrittr)
+#' @import dplyr
+#' @import purrr
+#' @import corrplot
+#' @import magrittr
 #' @examples
 #' corr_num()
 

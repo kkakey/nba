@@ -5,8 +5,8 @@
 #' @param year Input year of interest
 #' @keywords nba
 #' @export
-#' @import(dplyr)
-#' @import(magrittr)
+#' @import dplyr
+#' @import magrittr
 #' @examples
 #' year_player()
 
