@@ -9,7 +9,7 @@
 NBA Seasons Stats from \href{https://www.kaggle.com/drgilermo/nba-players-stats/data}{kaggle}
 }
 \usage{
-nba_df
+data(nba_df)
 }
 \description{
 NBA Statistics
